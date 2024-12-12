@@ -45,6 +45,7 @@ http://localhost:3000
 ---
 
 ## **📂 Structure du projet**
+```
 Chat-SG/
 ├── public/
 │   ├── index.html       # Interface utilisateur
@@ -53,6 +54,7 @@ Chat-SG/
 ├── .env                 # Clé API OpenAI (non incluse dans Git)
 ├── .gitignore           # Fichiers à ignorer
 └── README.md            # Documentation
+```
 
 ---
 
